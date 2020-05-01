@@ -1,0 +1,16 @@
+############################################
+knockpy
+
+this if find sundomain from the server
+
+git clone https://github.com/guelfoweb/knock.git
+
+#############################################
+
+dirb
+
+dirb  http://.cmsinfotech.in
+
+for dirctory view from any website
+
+###############################################	
